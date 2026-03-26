@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Login_DDT</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4b270684-5a67-460a-926a-25c3a1620ff2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b86f1630-2240-4119-88d8-258de6125615</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0e52890f-a101-4e5a-933c-c77659cd8254</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b86f1630-2240-4119-88d8-258de6125615</id>
+      <masked>false</masked>
+      <name>var_user</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0e52890f-a101-4e5a-933c-c77659cd8254</id>
+      <masked>false</masked>
+      <name>var_pass</name>
+   </variable>
+</TestCaseEntity>
